@@ -1,0 +1,8 @@
+{
+  "name": "babel-tutorial",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18"
+  }
+}
