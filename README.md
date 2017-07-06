@@ -8,5 +8,14 @@ $ babel src --out-dir dist --source-maps
 
 ## Use Polyfill
 
-- install: `npm install babel-polyfill`
-- introduce it: `require("babel-polyfill");`
+## Install
+
+```bash
+$ npm install babel-polyfill
+```
+
+## Introduce it: 
+
+```js
+require("babel-polyfill");
+```
